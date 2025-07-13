@@ -1,0 +1,8 @@
+{
+  "name": "Zaynoa",
+  "symbol": "ZAY",
+  "type": "ERC20",
+  "decimals": 18,
+  "chainId": 137,
+  "address": "0x5038EfB6aB390eF574AA7fb71aB7664330F9387c"
+}
